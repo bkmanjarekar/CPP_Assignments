@@ -1,0 +1,11 @@
+# ninja log v6
+3	390	7680571426786427	CMakeFiles/02_StringAssignment.dir/main.cpp.obj	584ec1a1446f5164
+392	497	7680571430674885	02_StringAssignment.exe	333c5963b8193111
+6	361	7680571779475020	CMakeFiles/02_StringAssignment.dir/main.cpp.obj	584ec1a1446f5164
+362	461	7680571783029091	02_StringAssignment.exe	333c5963b8193111
+6	348	7680572124741783	CMakeFiles/02_StringAssignment.dir/main.cpp.obj	584ec1a1446f5164
+349	442	7680572128172256	02_StringAssignment.exe	333c5963b8193111
+5	359	7680572427834176	CMakeFiles/02_StringAssignment.dir/main.cpp.obj	584ec1a1446f5164
+359	453	7680572431365570	02_StringAssignment.exe	333c5963b8193111
+5	350	7680576239467659	CMakeFiles/02_StringAssignment.dir/main.cpp.obj	584ec1a1446f5164
+350	458	7680576242913925	02_StringAssignment.exe	333c5963b8193111
